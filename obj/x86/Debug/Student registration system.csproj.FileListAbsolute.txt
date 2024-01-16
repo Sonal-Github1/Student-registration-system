@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Melody\student registration system\bin\Debug\Melody Music System.exe
+C:\Users\USER\Desktop\Melody\student registration system\bin\Debug\Melody Music System.pdb
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Student registration system.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Melody_Music_System.Form1.resources
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Melody_Music_System.Form2.resources
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Melody_Music_System.Form3.resources
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Melody_Music_System.Form4.resources
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Melody_Music_System.Form5.resources
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Melody_Music_System.Form6.resources
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Melody_Music_System.MDIParent1.resources
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Melody_Music_System.Properties.Resources.resources
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Student registration system.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Melody Music System.exe
+C:\Users\USER\Desktop\Melody\student registration system\obj\x86\Debug\Melody Music System.pdb
+C:\Users\USER\Documents\melody\student registration system\obj\x86\Debug\Melody Music System.exe
+C:\Users\USER\Documents\melody\student registration system\obj\x86\Debug\Melody Music System.pdb
